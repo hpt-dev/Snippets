@@ -8,3 +8,6 @@
 1. [Algorithms](https://github.com/hpt-dev/Snippets/blob/master/Algorithms.md)
 2. [DataTypes](https://github.com/hpt-dev/Snippets/blob/master/DataTypes.md)
 3. [Principles](https://github.com/hpt-dev/Snippets/blob/master/Principles.md)
+
+# Links
+1. 
