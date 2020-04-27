@@ -1,4 +1,4 @@
 
-# Snippets
+# Useful Snippets
 
-[GitHub](https://github.com/hpt-dev/Snippets/blob/master/Javascript.md)
+[Javascript](https://github.com/hpt-dev/Snippets/blob/master/Javascript.md)
