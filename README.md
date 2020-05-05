@@ -3,7 +3,7 @@
 2. [HTML](https://github.com/hpt-dev/Snippets/blob/master/HTML.md)
 3. [CSS](https://github.com/hpt-dev/Snippets/blob/master/CSS.md)
 4. [C#](https://github.com/hpt-dev/Snippets/blob/master/C#.md)
-
+5. [Typescript](https://github.com/hpt-dev/Snippets/blob/master/Typescript.md)
 # Other 
 1. [Algorithms](https://github.com/hpt-dev/Snippets/blob/master/Algorithms.md)
 2. [DataTypes](https://github.com/hpt-dev/Snippets/blob/master/DataTypes.md)
