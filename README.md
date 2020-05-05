@@ -15,4 +15,4 @@
 
 # Videos
 1. [Data Structures (LL, Array. HashMap, Tree)](https://www.youtube.com/watch?v=sVxBVvlnJsM)
-2. [GraphQL Modelling 1:N N:N etc] (https://www.youtube.com/watch?v=eUQvsuO6EnU)
+2. [GraphQL Modelling one to many etc] (https://www.youtube.com/watch?v=eUQvsuO6EnU)
